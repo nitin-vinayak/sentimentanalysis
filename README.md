@@ -2,6 +2,8 @@
 
 A Streamlit web application that analyzes the sentiment of recent news articles using machine learning. Get insights into public sentiment around any topic by analyzing news coverage from the past week.
 
+Link: https://sentiment-analysis-kh6p3nqm3njavtmxjhxjbt.streamlit.app/
+
 ## Features
 
 - **Real-time News Analysis**: Fetch recent articles using NewsAPI
